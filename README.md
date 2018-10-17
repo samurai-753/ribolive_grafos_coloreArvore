@@ -8,7 +8,7 @@ Este é o código fonte da aplicação. Ele foi construído usando Python. Você
 
 ### Pré-requisitos
 
-Mínimo: Python
+Mínimo: Python; 
 Conhecimentos: Coloração em arvores (Grafos)
 
 ### Instalando
