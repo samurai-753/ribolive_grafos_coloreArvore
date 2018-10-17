@@ -13,9 +13,7 @@ Conhecimentos: Coloração em arvores (Grafos)
 
 ### Instalando
 
-Para instalar o Python e o GraphViz no sistema operacional Linux:
-
-{% filename %}command-line{% endfilename %}
+Para instalar o GraphViz no sistema operacional Linux:
 
     $ sudo apt-get install graphviz
 
